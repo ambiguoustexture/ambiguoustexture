@@ -14,3 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+ - Interested and wanted a job in Unix/Linux system dev.
+ - Currently learning C/(modern)C++ & Rust.
+
+<a href="https://github.com/ambiguoustexture">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ambiguoustexture&show_icons=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ambiguoustexture&&layout=compact&exclude_repo=30daysOS_vitality,github-readme-stats,my-resume,hexo-theme-yilia-dracula,ambiguoustexture.github.io" />
+</a>
