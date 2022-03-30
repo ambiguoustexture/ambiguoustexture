@@ -22,7 +22,7 @@ Property | Data
 --- | --- 
 Language | ![c++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=C%2B%2B) ![Rust](https://img.shields.io/badge/-Rust-000000?style=flat&logo=Rust)  
 IDE |![Vim](https://img.shields.io/badge/-Vim-019733?style=flat&logo=Vim) ![VSCode](https://img.shields.io/badge/-Visual%20Studio%20Code-007ACC?style=flat&logo=Visual%20Studio%20Code)
-OS |![macOS](https://img.shields.io/badge/-MacOS-000000?style=flat&logo=Apple) ![Arch Linux](https://img.shields.io/badge/-Arch%20Linux-1793D1?style=flat&logo=Arch%20Linux&logoColor=white)
+OS |![macOS](https://img.shields.io/badge/-macOS-000000?style=flat&logo=Apple) ![Arch Linux](https://img.shields.io/badge/-Arch%20Linux-1793D1?style=flat&logo=Arch%20Linux&logoColor=white)
 
 <a href="https://github.com/ambiguoustexture">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ambiguoustexture&show_icons=true" />
