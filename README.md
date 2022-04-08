@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
- - Interested and wanted a job in Unix/Linux system dev.
+ - Interested in a job in Unix/Linux system dev.
  - Currently learning C/(modern)C++ & Rust.
 
 Property | Data
