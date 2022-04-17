@@ -15,8 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
- - Interested in a job in Unix/Linux system dev.
- - Currently learning C/(modern)C++ & Rust.
+ - Interested in a job in Cloud-gaming, Cloud-rendering, or Unix/Linux system dev.
+ - Currently learning WebRTC, Computer Graphics, Rendering, and PLs mainly including modern C++ & Rust.
 
 Property | Data
 --- | --- 
