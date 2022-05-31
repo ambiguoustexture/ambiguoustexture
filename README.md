@@ -32,7 +32,8 @@ OS |![macOS](https://img.shields.io/badge/-macOS-000000?style=flat&logo=Apple) !
 <!--START_SECTION:waka-->
 
 ```text
-Python   40 mins         █████████████████████████   100.00 %
+Python   40 mins         ███████████████▓░░░░░░░░░   62.58 %
+C++      24 mins         █████████▒░░░░░░░░░░░░░░░   37.42 %
 ```
 
 <!--END_SECTION:waka-->
