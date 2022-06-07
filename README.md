@@ -32,7 +32,7 @@ OS |![macOS](https://img.shields.io/badge/-macOS-000000?style=flat&logo=Apple) !
 <!--START_SECTION:waka-->
 
 ```text
-C++   24 mins         █████████████████████████   100.00 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
