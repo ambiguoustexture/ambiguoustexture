@@ -32,7 +32,12 @@ OS |![macOS](https://img.shields.io/badge/-macOS-000000?style=flat&logo=Apple) !
 <!--START_SECTION:waka-->
 
 ```text
-No activity tracked
+C++          41 mins         █████████████▒░░░░░░░░░░░   53.50 %
+C            19 mins         ██████▒░░░░░░░░░░░░░░░░░░   25.00 %
+CMake        13 mins         ████░░░░░░░░░░░░░░░░░░░░░   16.65 %
+JSON         1 min           ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.55 %
+Bash         1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.72 %
+Other        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.38 %
 ```
 
 <!--END_SECTION:waka-->
