@@ -32,12 +32,12 @@ OS |![macOS](https://img.shields.io/badge/-macOS-000000?style=flat&logo=Apple) !
 <!--START_SECTION:waka-->
 
 ```text
-C++          8 hrs 44 mins   █████████████▒░░░░░░░░░░░   52.98 %
-CMake        2 hrs 22 mins   ███▓░░░░░░░░░░░░░░░░░░░░░   14.37 %
-Markdown     2 hrs 16 mins   ███▒░░░░░░░░░░░░░░░░░░░░░   13.77 %
-C            1 hr 17 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   07.79 %
-JSON         1 hr 16 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   07.72 %
-Git Config   17 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.76 %
+C++          12 hrs 41 mins  ██████████████▓░░░░░░░░░░   58.33 %
+CMake        3 hrs 50 mins   ████▒░░░░░░░░░░░░░░░░░░░░   17.67 %
+Markdown     2 hrs 16 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   10.43 %
+JSON         1 hr 25 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.52 %
+C            58 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.52 %
+Git Config   17 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.33 %
 ```
 
 <!--END_SECTION:waka-->
