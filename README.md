@@ -32,10 +32,10 @@ OS |![macOS](https://img.shields.io/badge/-macOS-000000?style=flat&logo=Apple) !
 <!--START_SECTION:waka-->
 
 ```text
-C++        1 hr 54 mins    ██████████████████▒░░░░░░   72.95 %
-Markdown   37 mins         ██████░░░░░░░░░░░░░░░░░░░   23.77 %
-Bash       4 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.81 %
-Other      0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.26 %
+Markdown   45 mins         ███████████████████░░░░░░   76.51 %
+C++        5 mins          ██▒░░░░░░░░░░░░░░░░░░░░░░   08.78 %
+Bash       4 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   07.43 %
+Other      2 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   04.88 %
 ```
 
 <!--END_SECTION:waka-->
