@@ -9,11 +9,11 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```text
-C++          13 hrs 26 mins  ███████████████▒░░░░░░░░░   61.21 %
-Python       7 hrs 6 mins    ████████░░░░░░░░░░░░░░░░░   32.39 %
-Rust         55 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.22 %
-Git Config   16 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.21 %
-Other        7 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.55 %
+C++          13 hrs 26 mins  ███████████████▓░░░░░░░░░   62.07 %
+Python       7 hrs 6 mins    ████████▒░░░░░░░░░░░░░░░░   32.84 %
+Rust         36 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.80 %
+Git Config   16 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.23 %
+Other        7 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.56 %
 ```
 
 <!--END_SECTION:waka-->
