@@ -9,11 +9,9 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```text
-Rust         13 hrs 59 mins  ██████████████░░░░░░░░░░░   55.44 %
-C++          9 hrs 12 mins   █████████░░░░░░░░░░░░░░░░   36.48 %
-Python       30 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.99 %
-Markdown     28 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.89 %
-Other        22 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.46 %
+C++          13 hrs 27 mins  ███████████████░░░░░░░░░░   60.10 %
+Rust         6 hrs 55 mins   ███████▓░░░░░░░░░░░░░░░░░   30.92 %
+Other        29 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.16 %
 ```
 
 <!--END_SECTION:waka-->
