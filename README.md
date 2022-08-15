@@ -9,9 +9,9 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```text
-C++        18 hrs 22 mins  ██████████████████████░░░   88.55 %
-Rust       51 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.13 %
-Other      28 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.30 %
+C++        18 hrs 56 mins  █████████████████████▓░░░   87.17 %
+Rust       1 hr 16 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.85 %
+Other      28 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.20 %
 ```
 
 <!--END_SECTION:waka-->
