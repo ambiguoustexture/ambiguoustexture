@@ -6,6 +6,8 @@
 Here are some ideas to get you started:
 -->
 - 🔭 I’m currently working on automated/high-frequency trading as a probationary system developer.
+- :( Experiencing imposter syndrome now.
+
 <!--START_SECTION:waka-->
 
 ```text
