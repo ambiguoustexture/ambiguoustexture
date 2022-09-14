@@ -11,9 +11,7 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```text
-Python      7 hrs 55 mins   ████████▓░░░░░░░░░░░░░░░░   34.04 %
-C           5 hrs 45 mins   ██████▒░░░░░░░░░░░░░░░░░░   24.73 %
-Other       5 hrs 17 mins   █████▓░░░░░░░░░░░░░░░░░░░   22.71 %
+Other       7 hrs 6 mins    ████████░░░░░░░░░░░░░░░░░   32.18 %
 ```
 
 <!--END_SECTION:waka-->
