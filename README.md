@@ -11,7 +11,11 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```text
-No activity tracked
+C++               1 hr 51 mins    █████████████░░░░░░░░░░░░   52.26 %
+CMake             1 hr 19 mins    █████████▒░░░░░░░░░░░░░░░   37.56 %
+PHP               11 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.35 %
+Python            8 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.91 %
+Other             0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.45 %
 ```
 
 <!--END_SECTION:waka-->
