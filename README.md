@@ -11,9 +11,9 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```text
-C++        2 hrs 14 mins   ███████████████▒░░░░░░░░░   60.74 %
-Python     35 mins         ████░░░░░░░░░░░░░░░░░░░░░   16.10 %
-Other      19 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   08.76 %
+C++      1 hr 42 mins    ██████████▒░░░░░░░░░░░░░░   41.03 %
+Python   1 hr 20 mins    ████████░░░░░░░░░░░░░░░░░   32.29 %
+Other    36 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   14.82 %
 ```
 
 <!--END_SECTION:waka-->
