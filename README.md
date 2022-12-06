@@ -11,11 +11,10 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```text
-C++               3 hrs 31 mins   ████████▒░░░░░░░░░░░░░░░░   33.74 %
-Python            2 hrs 55 mins   ███████░░░░░░░░░░░░░░░░░░   28.05 %
-CMake             56 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.05 %
-Protocol Buffer   45 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   07.21 %
-Other             40 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.49 %
+Python            3 hrs 23 mins   ███████▓░░░░░░░░░░░░░░░░░   31.32 %
+C++               3 hrs 21 mins   ███████▓░░░░░░░░░░░░░░░░░   31.15 %
+CMake             1 hr 20 mins    ███░░░░░░░░░░░░░░░░░░░░░░   12.35 %
+Other             43 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.75 %
 ```
 
 <!--END_SECTION:waka-->
