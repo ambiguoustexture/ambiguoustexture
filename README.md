@@ -11,9 +11,9 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```text
-C++               7 hrs 47 mins   ████████████████████▓░░░░   82.74 %
-CMake             52 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.36 %
-Other             17 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.08 %
+C++               10 hrs 56 mins  ████████████████████░░░░░   79.45 %
+CMake             1 hr 56 mins    ███▓░░░░░░░░░░░░░░░░░░░░░   14.06 %
+Other             17 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.10 %
 ```
 
 <!--END_SECTION:waka-->
