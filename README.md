@@ -5,7 +5,7 @@
 
 Here are some ideas to get you started:
 -->
-- 🔭 I’m currently working on automated/high-frequency trading as a probationary system developer.
+- 🔭 I’m currently working on automated/low-latency trading as a junior system developer.
 - :worried: Experiencing imposter syndrome now, maybe.
 
 <!--START_SECTION:waka-->
