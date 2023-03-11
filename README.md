@@ -11,11 +11,9 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```text
-Racket      9 hrs 33 mins   ████████████████▒░░░░░░░░   65.01 %
-C++         4 hrs 41 mins   ████████░░░░░░░░░░░░░░░░░   31.88 %
-C           14 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.69 %
-CMake       10 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.19 %
-gitignore   2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.23 %
+Racket      7 hrs 42 mins   ████████████▒░░░░░░░░░░░░   49.96 %
+C++         6 hrs 56 mins   ███████████▒░░░░░░░░░░░░░   44.99 %
+Other       28 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.09 %
 ```
 
 <!--END_SECTION:waka-->
