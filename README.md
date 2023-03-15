@@ -11,9 +11,9 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```text
-C++          7 hrs 29 mins   ███████████████░░░░░░░░░░   60.24 %
-Racket       3 hrs 49 mins   ███████▓░░░░░░░░░░░░░░░░░   30.69 %
-Other        28 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.84 %
+C++          5 hrs 23 mins   ███████████████▒░░░░░░░░░   60.88 %
+Racket       2 hrs 30 mins   ███████░░░░░░░░░░░░░░░░░░   28.24 %
+Other        29 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.59 %
 ```
 
 <!--END_SECTION:waka-->
