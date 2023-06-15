@@ -11,10 +11,8 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-C++          7 hrs 15 mins   ███████████████████████▓░   94.61 %
-C            24 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.37 %
-JSON         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
-Git Config   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
+C++   3 hrs 48 mins   █████████████████████████   99.90 %
+C     0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.10 %
 ```
 
 <!--END_SECTION:waka-->
