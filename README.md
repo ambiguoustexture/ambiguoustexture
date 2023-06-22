@@ -11,8 +11,8 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-C++      40 mins         █████████████░░░░░░░░░░░░   52.65 %
-Python   36 mins         ████████████░░░░░░░░░░░░░   47.35 %
+Python   36 mins         ███████████████▒░░░░░░░░░   61.10 %
+C++      23 mins         █████████▓░░░░░░░░░░░░░░░   38.90 %
 ```
 
 <!--END_SECTION:waka-->
