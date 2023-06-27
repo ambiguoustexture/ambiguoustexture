@@ -1,4 +1,4 @@
-### Hi there, I'm ambiguoustexture 👋
+### Hi there, I'm ambiguouStr 👋
 
 <!--
 **ambiguoustexture/ambiguoustexture** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
