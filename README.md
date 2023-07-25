@@ -11,10 +11,11 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-C++          10 hrs 52 mins  ██████████████████▓░░░░░░   74.10 %
-Python       3 hrs 47 mins   ██████▒░░░░░░░░░░░░░░░░░░   25.79 %
-gitignore    0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.10 %
-Git Config   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
+C++          13 hrs 8 mins   ███████████████████░░░░░░   76.30 %
+Python       3 hrs 17 mins   ████▓░░░░░░░░░░░░░░░░░░░░   19.10 %
+CMake        39 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.87 %
+Other        6 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.64 %
+gitignore    0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.09 %
 ```
 
 <!--END_SECTION:waka-->
