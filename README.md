@@ -11,7 +11,7 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-C++              13 hrs 46 mins  ██████████████████████▒░░   89.71 %
+C++              13 hrs 46 mins  ██████████████████████▒░░   89.75 %
 CMake            41 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.47 %
 C                15 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.65 %
 SQL              9 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.99 %
