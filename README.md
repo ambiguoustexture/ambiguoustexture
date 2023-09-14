@@ -11,11 +11,11 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-C++        14 hrs 8 mins   ████████████████████▒░░░░   81.91 %
-Prolog     1 hr 21 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   07.85 %
-Rust       1 hr 5 mins     █▓░░░░░░░░░░░░░░░░░░░░░░░   06.31 %
-Ezhil      7 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.76 %
-Markdown   7 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.74 %
+C++          14 hrs 6 mins   ████████████████████░░░░░   79.63 %
+Prolog       1 hr 21 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   07.65 %
+Rust         1 hr 5 mins     █▓░░░░░░░░░░░░░░░░░░░░░░░   06.15 %
+Makefile     42 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.02 %
+Ezhil        7 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.75 %
 ```
 
 <!--END_SECTION:waka-->
