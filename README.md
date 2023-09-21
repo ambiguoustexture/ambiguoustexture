@@ -11,11 +11,11 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-C++            15 hrs 5 mins   ██████████████████████▓░░   90.74 %
-Ezhil          38 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.83 %
-Makefile       36 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.63 %
-Rust           8 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.85 %
-ActionScript   6 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.67 %
+C++            14 hrs 44 mins  ███████████████████████░░   92.51 %
+Ezhil          38 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.07 %
+Text           9 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.02 %
+Rust           8 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.89 %
+ActionScript   7 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.74 %
 ```
 
 <!--END_SECTION:waka-->
