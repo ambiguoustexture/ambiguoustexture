@@ -11,10 +11,9 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-C++        7 hrs 59 mins   ████████████████████████░   95.48 %
-Markdown   11 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.24 %
-Rust       10 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.16 %
-JSON       0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.13 %
+C++    9 hrs 39 mins   ████████████████████████▓   99.20 %
+Rust   3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.65 %
+JSON   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.15 %
 ```
 
 <!--END_SECTION:waka-->
