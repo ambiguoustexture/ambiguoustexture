@@ -11,11 +11,11 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-Python           3 hrs 15 mins   ███████████▒░░░░░░░░░░░░░   45.95 %
-C++              2 hrs 55 mins   ██████████▒░░░░░░░░░░░░░░   41.26 %
-Rust             19 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.69 %
-Batchfile        16 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.79 %
-ActionScript 3   14 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.38 %
+C++         2 hrs 42 mins   █████████████░░░░░░░░░░░░   51.77 %
+Python      1 hr 5 mins     █████▒░░░░░░░░░░░░░░░░░░░   20.90 %
+Bash        36 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.47 %
+Rust        19 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.35 %
+Batchfile   16 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.13 %
 ```
 
 <!--END_SECTION:waka-->
