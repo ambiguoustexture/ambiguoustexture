@@ -11,11 +11,11 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-Python       8 hrs 59 mins   █████████████▓░░░░░░░░░░░   55.23 %
-CSV          2 hrs 58 mins   ████▓░░░░░░░░░░░░░░░░░░░░   18.25 %
-C++          2 hrs 12 mins   ███▒░░░░░░░░░░░░░░░░░░░░░   13.57 %
-Bash         2 hrs 2 mins    ███░░░░░░░░░░░░░░░░░░░░░░   12.60 %
-Git Config   3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.35 %
+Python       8 hrs 29 mins   ██████████████▒░░░░░░░░░░   57.80 %
+CSV          2 hrs 48 mins   ████▓░░░░░░░░░░░░░░░░░░░░   19.09 %
+C++          1 hr 53 mins    ███▒░░░░░░░░░░░░░░░░░░░░░   12.84 %
+Bash         1 hr 27 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   09.88 %
+Git Config   3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.39 %
 ```
 
 <!--END_SECTION:waka-->
