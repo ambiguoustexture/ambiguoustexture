@@ -11,8 +11,7 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-Python   11 mins         ██████████████████░░░░░░░   72.04 %
-CSV      4 mins          ███████░░░░░░░░░░░░░░░░░░   27.96 %
+CSV   0 secs          █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
