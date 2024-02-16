@@ -11,8 +11,7 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-sh     11 mins         ████████████████████████▓   99.14 %
-CSV    0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.43 %
+sh     11 mins         █████████████████████████   99.57 %
 conf   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.43 %
 ```
 
