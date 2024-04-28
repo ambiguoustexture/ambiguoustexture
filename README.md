@@ -11,10 +11,8 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-sh     7 hrs 53 mins   ███████████████████████▒░   93.46 %
-CSV    16 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.34 %
-JSON   14 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.83 %
-Bash   1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.37 %
+sh    7 hrs 48 mins   ████████████████████████░   96.52 %
+CSV   16 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.48 %
 ```
 
 <!--END_SECTION:waka-->
