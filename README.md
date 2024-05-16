@@ -11,9 +11,9 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-sh    3 hrs 20 mins   ████████████████████▒░░░░   80.97 %
-C++   24 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.08 %
-CSV   22 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   08.95 %
+sh    3 hrs 20 mins   █████████████▓░░░░░░░░░░░   55.12 %
+C++   2 hrs 6 mins    ████████▓░░░░░░░░░░░░░░░░   34.76 %
+CSV   36 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.12 %
 ```
 
 <!--END_SECTION:waka-->
