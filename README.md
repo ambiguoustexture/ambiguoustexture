@@ -11,9 +11,10 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-Python   21 mins         ██████████████▓░░░░░░░░░░   58.31 %
-CSV      14 mins         ██████████░░░░░░░░░░░░░░░   40.62 %
-Other    0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.06 %
+Python   21 mins         █████████████░░░░░░░░░░░░   51.86 %
+CSV      14 mins         █████████░░░░░░░░░░░░░░░░   36.09 %
+SQL      4 mins          ██▓░░░░░░░░░░░░░░░░░░░░░░   11.11 %
+Other    0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.95 %
 ```
 
 <!--END_SECTION:waka-->
