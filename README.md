@@ -11,11 +11,11 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-Python        5 hrs 38 mins   ███████▓░░░░░░░░░░░░░░░░░   31.32 %
-C++           5 hrs 29 mins   ███████▓░░░░░░░░░░░░░░░░░   30.48 %
-Other         5 hrs 7 mins    ███████░░░░░░░░░░░░░░░░░░   28.44 %
-CSV           1 hr 34 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   08.70 %
-Objective-C   5 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.53 %
+C++           7 hrs 1 min     █████████░░░░░░░░░░░░░░░░   35.60 %
+Python        5 hrs 51 mins   ███████▒░░░░░░░░░░░░░░░░░   29.73 %
+Other         4 hrs 55 mins   ██████▒░░░░░░░░░░░░░░░░░░   24.98 %
+CSV           1 hr 42 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   08.68 %
+Objective-C   6 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.55 %
 ```
 
 <!--END_SECTION:waka-->
