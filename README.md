@@ -11,11 +11,8 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-Other    1 hr 30 mins    ███████████░░░░░░░░░░░░░░   44.31 %
-Python   49 mins         ██████░░░░░░░░░░░░░░░░░░░   24.33 %
-CSV      31 mins         ████░░░░░░░░░░░░░░░░░░░░░   15.58 %
-SQL      16 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.92 %
-C++      16 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.86 %
+CSV      24 mins         ████████████████████▒░░░░   81.83 %
+Python   5 mins          ████▓░░░░░░░░░░░░░░░░░░░░   18.17 %
 ```
 
 <!--END_SECTION:waka-->
