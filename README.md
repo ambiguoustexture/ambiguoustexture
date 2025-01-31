@@ -11,11 +11,8 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-Rust       1 hr 37 mins    █████████████▒░░░░░░░░░░░   53.24 %
-Other      30 mins         ████░░░░░░░░░░░░░░░░░░░░░   16.44 %
-C++        20 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   11.14 %
-CSV        15 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.63 %
-Markdown   10 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.54 %
+CSV        9 mins          ██████████████████████░░░   88.45 %
+Markdown   1 min           ███░░░░░░░░░░░░░░░░░░░░░░   11.55 %
 ```
 
 <!--END_SECTION:waka-->
