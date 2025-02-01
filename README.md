@@ -11,8 +11,7 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-CSV        9 mins          ██████████████████████░░░   88.45 %
-Markdown   1 min           ███░░░░░░░░░░░░░░░░░░░░░░   11.55 %
+CSV   7 mins          █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
