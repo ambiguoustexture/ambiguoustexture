@@ -11,10 +11,10 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-C++      8 hrs 8 mins    ████████████████▓░░░░░░░░   66.22 %
-Other    3 hrs 2 mins    ██████▒░░░░░░░░░░░░░░░░░░   24.69 %
-Python   46 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.35 %
-CSV      20 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.74 %
+C++      8 hrs 8 mins    ███████████████▓░░░░░░░░░   63.21 %
+Other    3 hrs 37 mins   ███████░░░░░░░░░░░░░░░░░░   28.12 %
+Python   46 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.06 %
+CSV      20 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.62 %
 ```
 
 <!--END_SECTION:waka-->
