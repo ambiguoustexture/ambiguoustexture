@@ -7,6 +7,7 @@ Here are some ideas to get you started:
 -->
 - 🔭 I’m currently working ~~on automated/low-latency trading~~ as a ~~always junior system~~ developer.
 - :worried: Experiencing ~~endless~~ imposter syndrome still, and even worse.
+- Considering a transformation from fin quant to LLM quant.
 
 <!--START_SECTION:waka-->
 
