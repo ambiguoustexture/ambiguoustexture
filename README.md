@@ -13,11 +13,11 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-Python         2 hrs 44 mins   ██████████░░░░░░░░░░░░░░░   39.71 %
-CSV            1 hr 18 mins    ████▓░░░░░░░░░░░░░░░░░░░░   19.06 %
-Delphi         52 mins         ███░░░░░░░░░░░░░░░░░░░░░░   12.63 %
-ObjectPascal   48 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.62 %
-Other          26 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.43 %
+Other          1 hr 41 mins    █████▓░░░░░░░░░░░░░░░░░░░   22.27 %
+Python         1 hr 34 mins    █████▒░░░░░░░░░░░░░░░░░░░   20.70 %
+Delphi         1 hr 33 mins    █████░░░░░░░░░░░░░░░░░░░░   20.57 %
+CSV            1 hr 20 mins    ████▒░░░░░░░░░░░░░░░░░░░░   17.61 %
+ObjectPascal   55 mins         ███░░░░░░░░░░░░░░░░░░░░░░   12.09 %
 ```
 
 <!--END_SECTION:waka-->
