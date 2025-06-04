@@ -13,10 +13,10 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-Bash       13 mins         █████████▒░░░░░░░░░░░░░░░   37.55 %
-Markdown   10 mins         ███████▓░░░░░░░░░░░░░░░░░   30.45 %
-CSV        6 mins          █████░░░░░░░░░░░░░░░░░░░░   19.77 %
-Python     4 mins          ███░░░░░░░░░░░░░░░░░░░░░░   12.24 %
+Bash       13 mins         █████████▓░░░░░░░░░░░░░░░   38.04 %
+Markdown   10 mins         ███████▓░░░░░░░░░░░░░░░░░   30.84 %
+CSV        6 mins          ████▓░░░░░░░░░░░░░░░░░░░░   18.72 %
+Python     4 mins          ███░░░░░░░░░░░░░░░░░░░░░░   12.40 %
 ```
 
 <!--END_SECTION:waka-->
