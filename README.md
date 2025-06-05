@@ -13,10 +13,9 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-Bash       13 mins         █████████▓░░░░░░░░░░░░░░░   38.04 %
-Markdown   10 mins         ███████▓░░░░░░░░░░░░░░░░░   30.84 %
-CSV        6 mins          ████▓░░░░░░░░░░░░░░░░░░░░   18.72 %
-Python     4 mins          ███░░░░░░░░░░░░░░░░░░░░░░   12.40 %
+Bash       13 mins         ██████████▒░░░░░░░░░░░░░░   41.77 %
+Markdown   11 mins         █████████░░░░░░░░░░░░░░░░   35.45 %
+CSV        7 mins          █████▓░░░░░░░░░░░░░░░░░░░   22.78 %
 ```
 
 <!--END_SECTION:waka-->
