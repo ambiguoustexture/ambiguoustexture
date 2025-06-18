@@ -13,11 +13,11 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-Markdown       1 hr 32 mins    ████████░░░░░░░░░░░░░░░░░   32.25 %
-CSV            1 hr 22 mins    ███████▒░░░░░░░░░░░░░░░░░   28.94 %
-SQL            41 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   14.54 %
-ObjectPascal   30 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.77 %
-Other          28 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.07 %
+Markdown       1 hr 32 mins    ████████░░░░░░░░░░░░░░░░░   31.64 %
+CSV            1 hr 28 mins    ███████▓░░░░░░░░░░░░░░░░░   30.44 %
+SQL            41 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   14.27 %
+ObjectPascal   30 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.57 %
+Other          28 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.88 %
 ```
 
 <!--END_SECTION:waka-->
