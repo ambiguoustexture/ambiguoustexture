@@ -13,9 +13,9 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-C++      9 mins          ████████████████▓░░░░░░░░   66.93 %
-CSV      2 mins          ████▒░░░░░░░░░░░░░░░░░░░░   17.83 %
-Python   2 mins          ███▓░░░░░░░░░░░░░░░░░░░░░   15.24 %
+CSV      9 mins          ███████████▒░░░░░░░░░░░░░   45.13 %
+C++      9 mins          ███████████▒░░░░░░░░░░░░░   44.69 %
+Python   2 mins          ██▓░░░░░░░░░░░░░░░░░░░░░░   10.18 %
 ```
 
 <!--END_SECTION:waka-->
