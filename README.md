@@ -13,9 +13,9 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-Markdown   1 hr 47 mins    ████████████████░░░░░░░░░   64.55 %
-CSV        52 mins         ████████░░░░░░░░░░░░░░░░░   31.51 %
-Other      6 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.93 %
+Markdown   2 hrs 45 mins   ███████████████████░░░░░░   75.92 %
+CSV        44 mins         █████▒░░░░░░░░░░░░░░░░░░░   20.69 %
+Other      7 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.39 %
 ```
 
 <!--END_SECTION:waka-->
