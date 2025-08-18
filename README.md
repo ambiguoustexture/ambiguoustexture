@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 
 ```txt
 C++        1 hr 18 mins    █████████████████░░░░░░░░   68.34 %
-Other      35 mins         ███████▓░░░░░░░░░░░░░░░░░   31.13 %
+Other      35 mins         ███████▓░░░░░░░░░░░░░░░░░   31.12 %
 Markdown   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.53 %
 ```
 
