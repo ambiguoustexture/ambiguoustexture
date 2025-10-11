@@ -13,7 +13,8 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+CSV   6 mins          ████████████████░░░░░░░░░   64.59 %
+sh    3 mins          █████████░░░░░░░░░░░░░░░░   35.41 %
 ```
 
 <!--END_SECTION:waka-->
