@@ -13,8 +13,9 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-CSV   6 mins          ████████████████░░░░░░░░░   64.59 %
-sh    3 mins          █████████░░░░░░░░░░░░░░░░   35.41 %
+Other   3 hrs 23 mins   ███████████████████████▓░   95.02 %
+CSV     6 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.22 %
+sh      3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.77 %
 ```
 
 <!--END_SECTION:waka-->
