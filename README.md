@@ -13,10 +13,9 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-Other        5 hrs 43 mins   ███████████████████████▓░   94.07 %
-C++          20 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.64 %
-Markdown     0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.22 %
-Dockerfile   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 %
+Other      4 hrs 11 mins   ████████████████████████▒   97.13 %
+C++        6 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.54 %
+Markdown   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.33 %
 ```
 
 <!--END_SECTION:waka-->
