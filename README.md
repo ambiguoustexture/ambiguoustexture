@@ -13,11 +13,9 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-Other         1 hr 59 mins    ██████████████████░░░░░░░   72.51 %
-Bash          23 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   14.47 %
-Image (png)   16 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.86 %
-Markdown      5 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.12 %
-Python        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 %
+Other         1 hr 22 mins    █████████████████░░░░░░░░   67.49 %
+Bash          23 mins         █████░░░░░░░░░░░░░░░░░░░░   19.34 %
+Image (png)   16 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   13.17 %
 ```
 
 <!--END_SECTION:waka-->
