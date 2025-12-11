@@ -13,9 +13,8 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-Other         2 hrs 53 mins   █████████████████████░░░░   83.61 %
-Bash          23 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.47 %
-Image (png)   10 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.91 %
+Other   5 hrs           █████████████████████████   99.75 %
+Bash    0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.25 %
 ```
 
 <!--END_SECTION:waka-->
