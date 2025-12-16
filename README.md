@@ -13,8 +13,8 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-Other   4 hrs 47 mins   ████████████████████████▓   99.15 %
-Bash    2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.85 %
+Other   6 hrs 28 mins   █████████████████████████   99.37 %
+Bash    2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.63 %
 ```
 
 <!--END_SECTION:waka-->
