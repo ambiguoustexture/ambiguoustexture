@@ -13,9 +13,8 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-Other      2 hrs 50 mins   ███████████████████▒░░░░░   77.51 %
-Delphi     35 mins         ████░░░░░░░░░░░░░░░░░░░░░   15.92 %
-Markdown   14 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.57 %
+Other    1 hr 57 mins    ███████████████████▒░░░░░   76.98 %
+Delphi   35 mins         █████▓░░░░░░░░░░░░░░░░░░░   23.02 %
 ```
 
 <!--END_SECTION:waka-->
