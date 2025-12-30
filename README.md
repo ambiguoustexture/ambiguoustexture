@@ -13,10 +13,10 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-Other        4 hrs 36 mins   ██████████████████████░░░   87.97 %
-Delphi       35 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   11.18 %
-Dockerfile   1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.50 %
-C++          1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.35 %
+Other        4 hrs 36 mins   █████████████████████▒░░░   85.10 %
+Delphi       35 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.82 %
+Dockerfile   12 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.75 %
+C++          1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.34 %
 ```
 
 <!--END_SECTION:waka-->
