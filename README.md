@@ -13,8 +13,9 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-Delphi   15 mins         █████████████▓░░░░░░░░░░░   54.61 %
-Other    12 mins         ███████████▒░░░░░░░░░░░░░   45.39 %
+Other    42 mins         ██████████████████▒░░░░░░   72.74 %
+Delphi   15 mins         ██████▓░░░░░░░░░░░░░░░░░░   26.58 %
+C++      0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.67 %
 ```
 
 <!--END_SECTION:waka-->
