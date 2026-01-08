@@ -13,9 +13,11 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-Other    42 mins         ██████████████████▒░░░░░░   72.74 %
-Delphi   15 mins         ██████▓░░░░░░░░░░░░░░░░░░   26.58 %
-C++      0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.67 %
+Other        2 hrs 14 mins   ████████████████▓░░░░░░░░   66.84 %
+Markdown     28 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   13.94 %
+C++          19 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.91 %
+Delphi       13 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.53 %
+TypeScript   3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.74 %
 ```
 
 <!--END_SECTION:waka-->
