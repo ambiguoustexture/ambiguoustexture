@@ -13,11 +13,8 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-JavaScript   54 mins               ███████████░░░░░░░░░░░░░░   44.41 %
-Other        53 mins               ███████████░░░░░░░░░░░░░░   43.74 %
-Bash         5 mins                █░░░░░░░░░░░░░░░░░░░░░░░░   04.51 %
-CSV          5 mins                █░░░░░░░░░░░░░░░░░░░░░░░░   04.09 %
-Python       4 mins                ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.25 %
+JavaScript   54 mins               █████████████████████████   100.00 %
+Other        0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
 ```
 
 <!--END_SECTION:waka-->
