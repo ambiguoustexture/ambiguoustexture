@@ -13,7 +13,9 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-Other   0 secs                █████████████████████████   100.00 %
+Other      18 mins               ███████████████▓░░░░░░░░░   62.76 %
+Bash       7 mins                ██████░░░░░░░░░░░░░░░░░░░   24.50 %
+Markdown   3 mins                ███▒░░░░░░░░░░░░░░░░░░░░░   12.73 %
 ```
 
 <!--END_SECTION:waka-->
