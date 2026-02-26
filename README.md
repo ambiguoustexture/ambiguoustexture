@@ -13,9 +13,11 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-Other      18 mins               ███████████████▓░░░░░░░░░   62.76 %
-Bash       7 mins                ██████░░░░░░░░░░░░░░░░░░░   24.50 %
-Markdown   3 mins                ███▒░░░░░░░░░░░░░░░░░░░░░   12.73 %
+Other      1 hr                  ███████████████▒░░░░░░░░░   61.13 %
+CSV        15 mins               ████░░░░░░░░░░░░░░░░░░░░░   15.36 %
+Text       8 mins                ██░░░░░░░░░░░░░░░░░░░░░░░   08.29 %
+Bash       7 mins                █▓░░░░░░░░░░░░░░░░░░░░░░░   07.17 %
+Markdown   6 mins                █▓░░░░░░░░░░░░░░░░░░░░░░░   06.25 %
 ```
 
 <!--END_SECTION:waka-->
