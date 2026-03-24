@@ -10,6 +10,8 @@ Here are some ideas to get you started:
 - Employed by adverse selection.
 - Otaku at large/least.
 
+📝 [ambiguoustr.github.io](https://ambiguoustr.github.io)
+
 <!--START_SECTION:waka-->
 
 ```txt
