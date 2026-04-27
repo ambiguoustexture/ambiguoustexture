@@ -6,7 +6,8 @@
 Here are some ideas to get you started:
 -->
 - Working ~~on automated/low-latency trading~~ as a ~~always junior system~~ developer.
-- Experiencing ~~endless~~ imposter syndrome still, and even worse.
+- ~~Experiencing endless imposter syndrome still, and even worse.~~
+- Well-adjusted and normal computer office dude
 - Employed by adverse selection.
 - Otaku at large/least.
 
